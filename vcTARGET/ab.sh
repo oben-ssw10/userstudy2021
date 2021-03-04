@@ -1,0 +1,10 @@
+sox ./p225_314_F.wav -r 22050 -c 1 	resamp/p225_314_F.wav
+sox ./p226_206_M.wav -r 22050 -c 1 	resamp/p226_206_M.wav
+sox ./p228_274_F.wav -r 22050 -c 1 	resamp/p228_274_F.wav
+sox ./p229_183_F.wav -r 22050 -c 1 	resamp/p229_183_F.wav
+sox ./p232_024_M.wav -r 22050 -c 1 	resamp/p232_024_M.wav
+sox ./p233_068_F.wav -r 22050 -c 1 	resamp/p233_068_F.wav
+sox ./p236_012_F.wav -r 22050 -c 1 	resamp/p236_012_F.wav
+sox ./p245_074_M.wav -r 22050 -c 1 	resamp/p245_074_M.wav
+sox ./p255_307_M.wav -r 22050 -c 1 	resamp/p255_307_M.wav
+sox ./p270_003_M.wav -r 22050 -c 1 	resamp/p270_003_M.wav
